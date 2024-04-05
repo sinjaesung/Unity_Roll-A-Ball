@@ -9,6 +9,8 @@ public class PlayerController : MonoBehaviour
 
     private void Awake()
     {
+        //github 파일변경 테스트
+
         movement3d = GetComponent<Movement3D>();
     }
 
